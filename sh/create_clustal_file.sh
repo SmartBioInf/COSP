@@ -1,6 +1,7 @@
 #!/bin/sh
 #
 #       create_clustal_file.sh
+#       his script is a part of the COSP Workflow https://github.com/SmartBioInf/COSP/
 #
 #       Copyright 2021 INRAE / Sylvain Marthey <sylvain.marthey@inrae.fr>
 #

@@ -1,6 +1,7 @@
 #!/bin/sh
 #
 #       convert_EMBOSS_SeqTable_to_custom_tsv_format.sh
+#       his script is a part of the COSP Workflow https://github.com/SmartBioInf/COSP/ 
 #
 #       Copyright 2021 INRAE / Sylvain Marthey <sylvain.marthey@inrae.fr>
 #

@@ -1,6 +1,7 @@
 #!/bin/sh
 #
 #       analyse_patterns_globaly_and_create_resume_file.sh
+#       his script is a part of the COSP Workflow https://github.com/SmartBioInf/COSP/
 #
 #       Copyright 2021 INRAE / Sylvain Marthey <sylvain.marthey@inrae.fr>
 #
