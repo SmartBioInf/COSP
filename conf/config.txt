@@ -1,0 +1,64 @@
+# project folder
+### put your project path here
+Project=".../COSP"
+
+# Cluster configuration (sge)
+use_cluster="no"
+# user mail 
+userMail=sylvain.marthey@inrae.fr
+# queue
+sgeQueue="short.q"
+
+# Configuration file
+Conf_patterns="${Project}/conf/patterns.txt"
+Conf_genomes="${Project}/conf/genomes.txt"
+Conf_file="${Project}/conf/config.txt"
+
+# Genome folder
+Genomes_folder="${Project}/genomes"
+
+# Global One letter pattern searched
+GlobalPattern="RBVR"
+
+# One letter pattern to report in step1.4_global_patterns_identification.sh
+patternsToReport="BV"
+
+# fuzzPro results folder 
+fuzzPro_folder="${Project}/fuzzPro"
+
+# fuzzPro executable 
+### put the complete path of your fuzzpro binary file here
+fuzzPro_bin="/usr/local/genome/emboss/bin/fuzzpro"
+
+# scripts folder
+sh_folder="${Project}/sh"
+
+# final results folder
+results_folder="${Project}/results"
+# clustal results folder 
+results_clustal=${Project}/clustalo
+
+# html reports folder
+html_folder="${Project}/html"
+
+# clustering folder
+clustering_folder="${Project}/clustering"
+
+# clustering module to use cluster | linclust
+mmseq2_clustering="cluster"
+
+# Conda environment for mmseq
+### put your Conda environment for mmseq here
+condaEnvMMseq="mmseqs2"
+# Conda environment for clustal
+# put your Conda environment for clustal here
+condaEnvClustalo="clustalo-1.2.4"
+
+# mmseq2 clustering parameters 
+min_seq_id="0.5"
+
+# MView path
+### put the complete path of your MView binary file here
+mview_bin="/home/smarthey/save/bin/mview"
+
+

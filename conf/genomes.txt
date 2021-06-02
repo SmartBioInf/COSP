@@ -1,0 +1,15 @@
+Name	Accession ID	File	Taxon ID
+Mycobacterium_smegmatis	NZ_LN831039.1	NZ_LN831039.1.prot.fasta	1772
+Mycobacterium_phlei	NZ_CP014475.1	NZ_CP014475.1.prot.fasta	1771
+Mycobacterium_marinum	NZHG917972.2	NZ_HG917972.2.prot.fasta	1781
+Mycobacterium_tuberculosis	NC_000962.3	NC_000962.3.prot.fasta	1773
+Mycobacterium_bovis	LT708304.1	LT708304.1.prot.fasta	1765
+Mycobacterium_leprae	NZ_CP029543.1	NZ_CP029543.1.prot.fasta	1769
+Mycobacterium_vaccae	NZ_CP011491.1	NZ_CP011491.1.prot.fasta	1810
+Mycolicibacterium_gilvum	NC_014814.1	NC_014814.1.prot.fasta	1804
+Rhodoccocus_jostii	NC_008268.1	NC_008268.1.prot.fasta	132919
+Nocardia_farcinia	NZ_CP031418.1	NZ_CP031418.1.prot.fasta	37329
+Hoyosella_subflava	NC_015564.1	NC_015564.1.prot.fasta	639313
+Corynebacterium_glutamicum	NC_003450.3	NC_003450.3.prot.fasta	1718
+Bacillus_subtilis	NC_000964.3	NC_000964.3.prot.fasta	1423
+Escherichia_coli	NC_000913.3	NC_000913.3.prot.fasta	562

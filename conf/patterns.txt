@@ -1,0 +1,4 @@
+Name	Pattern	OneCode
+BVMO1	[AG]GxWxxxx[FY]P[GM]xxxD	B
+BVMO2	FxGxxxHxxxW[PD]	V
+Rossmann	GxGxx[GA]	R
